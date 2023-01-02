@@ -181,22 +181,26 @@ hr.yellow {
     padding: 3rem 5rem 3rem 5rem;
 }
 
+.page-section {
+    padding: 2rem 0;
+  }
 
-    a:link {
-        text-decoration: none;
-        color: #000000;
-      }
-      
-      a:visited {
-        text-decoration: none;
-        color: #000000;
-      }
-      
-      a:hover {
-        text-decoration: none;
-        color: #575757;
-      }
-      
-      a:active {
-        text-decoration: none;
-      }
+
+a:link {
+    text-decoration: none;
+    color: #000000;
+    }
+    
+    a:visited {
+    text-decoration: none;
+    color: #000000;
+    }
+    
+    a:hover {
+    text-decoration: none;
+    color: #575757;
+    }
+    
+    a:active {
+    text-decoration: none;
+    }
