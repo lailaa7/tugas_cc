@@ -276,7 +276,7 @@
         text-decoration: underline;
     }
     
-    .search-box {
+    .nav-item .search-box {
         position: absolute;
         top: 50%;
         left: 50%;
