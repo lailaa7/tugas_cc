@@ -171,11 +171,9 @@ hr.yellow {
 
 .footer {
     position: relative;
-    background-color: #FFD622;
     flex-wrap: wrap;
     align-items: center;
     margin-top: 50px;
-    padding: 3rem 5rem 3rem 5rem;
 }
 
 .page-section {
