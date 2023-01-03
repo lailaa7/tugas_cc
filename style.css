@@ -98,14 +98,15 @@
     outline: none !important;
 }
 
-.owl-prev, .owl-next {
+.owl-prev,
+.owl-next {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
     color: #fff !important;
     font-size: 65px !important;
     font-weight: bolder !important;
-    background:none !important;
+    background: none !important;
 }
 
 .owl-prev {
@@ -115,6 +116,7 @@
 .owl-next {
     right: 1%;
 }
+
 img {
     width: 50px;
     height: 50px;
@@ -127,37 +129,42 @@ img {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding: 0.5rem 1rem; }
-    .navbar > .container,
-    .navbar > .container-fluid {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-between; 
+    padding: 0.5rem 1rem;
+}
+
+.navbar>.container,
+.navbar>.container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .navbar-brand {
     display: inline-block;
     font-size: 1.09375rem;
     line-height: inherit;
-    white-space: nowrap; }
-    .navbar-brand:hover, .navbar-brand:focus {
-      text-decoration: none; 
+    white-space: nowrap;
 }
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+    text-decoration: none;
+}
+
 .nav {
     display: flex;
     flex-wrap: wrap;
     padding-left: 0;
     margin-bottom: 0;
-    list-style: none; 
+    list-style: none;
 }
 
-
 hr.yellow {
-    height:3px;
+    height: 3px;
     padding: 0;
-    color:#FFD622;
-    background-color:#FFD622;
+    color: #FFD622;
+    background-color: #FFD622;
 }
 
 .img-content {
@@ -183,24 +190,23 @@ hr.yellow {
 
 .page-section {
     padding: 2rem 0;
-  }
-
+}
 
 a:link {
     text-decoration: none;
     color: #000000;
-    }
-    
-    a:visited {
+}
+
+a:visited {
     text-decoration: none;
     color: #000000;
-    }
-    
-    a:hover {
+}
+
+a:hover {
     text-decoration: none;
     color: #575757;
-    }
-    
-    a:active {
+}
+
+a:active {
     text-decoration: none;
-    }
+}
